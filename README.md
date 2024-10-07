@@ -1,1 +1,1 @@
-# classmaite-mobile-app
+# classmate-mobile-app
